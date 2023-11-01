@@ -1,7 +1,6 @@
 package com.javierescobar.Libreria.servicios;
 
 import com.javierescobar.Libreria.Repositorios.EditorialRepositorio;
-import com.javierescobar.Libreria.modelos.Autor;
 import com.javierescobar.Libreria.modelos.Editorial;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

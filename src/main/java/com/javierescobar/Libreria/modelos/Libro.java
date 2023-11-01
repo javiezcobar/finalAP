@@ -7,6 +7,7 @@ import java.util.Set;
 
 @Entity
 @Data
+@AllArgsConstructor
 @Table(name = "libros")
 public class Libro {
     @Id

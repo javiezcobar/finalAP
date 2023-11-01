@@ -1,7 +1,6 @@
 package com.javierescobar.Libreria.servicios;
 
 import com.javierescobar.Libreria.modelos.Autor;
-import com.javierescobar.Libreria.modelos.Libro;
 
 import java.util.List;
 
